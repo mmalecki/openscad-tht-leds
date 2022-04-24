@@ -7,7 +7,7 @@ An OpenSCAD library to draw THT LEDs.
 Add a git submodule to your project:
 
 ```sh
-git submodule add leds https://github.com/mmalecki/openscad-leds
+git submodule add leds https://github.com/mmalecki/openscad-tht-leds
 ```
 
 ## Usage
